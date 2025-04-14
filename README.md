@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvch98&label=Profile%20views&color=0e75b6&style=flat" alt="yuvch98" /> </p>
 
-- 🌱 I’m currently learning **AWS Cloud development**
-
-- 💬 Ask me about **DL/ML/AI**
+- 🌱 I’m currently learning **React & TypeScript**
 
 - 📫 How to reach me **yuvalchabra100@gmail.com**
 <h3 align="left">Connect with me:</h3>
